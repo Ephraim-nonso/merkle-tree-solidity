@@ -1,3 +1,7 @@
+# Link to Verify Successful Claim of Token Using a Merkle Tree.
+
+https://kovan.etherscan.io/tx/0xf8ac76fe32d63d26202510e91f4997c778e8651f342ef47bba47f9439fca87f2
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
